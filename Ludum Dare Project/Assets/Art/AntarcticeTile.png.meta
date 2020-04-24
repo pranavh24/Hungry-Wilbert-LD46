@@ -1,0 +1,3500 @@
+fileFormatVersion: 2
+guid: 1df3821264b95ea40a38a8e6d36e4700
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 6306152562726278697
+    second: AntarcticeTile_0
+  - first:
+      213: 9064360552919779617
+    second: AntarcticeTile_1
+  - first:
+      213: 2836095989917032673
+    second: AntarcticeTile_2
+  - first:
+      213: -2475011201675327325
+    second: AntarcticeTile_3
+  - first:
+      213: 7158390402965149271
+    second: AntarcticeTile_4
+  - first:
+      213: -5682947945256830231
+    second: AntarcticeTile_5
+  - first:
+      213: 3760930132551052600
+    second: AntarcticeTile_6
+  - first:
+      213: -885725069180568769
+    second: AntarcticeTile_7
+  - first:
+      213: -3064929617481212750
+    second: AntarcticeTile_8
+  - first:
+      213: -9136263363418735532
+    second: AntarcticeTile_9
+  - first:
+      213: 1232868542389063397
+    second: AntarcticeTile_10
+  - first:
+      213: 2069532919910095482
+    second: AntarcticeTile_11
+  - first:
+      213: 1640779564894635423
+    second: AntarcticeTile_12
+  - first:
+      213: 6169853010955956268
+    second: AntarcticeTile_13
+  - first:
+      213: 5411704749216506966
+    second: AntarcticeTile_14
+  - first:
+      213: -6965560387029621944
+    second: AntarcticeTile_15
+  - first:
+      213: -3598025476623023369
+    second: AntarcticeTile_16
+  - first:
+      213: 304000212530915425
+    second: AntarcticeTile_17
+  - first:
+      213: -1057863988887789124
+    second: AntarcticeTile_18
+  - first:
+      213: 3385958091064716291
+    second: AntarcticeTile_19
+  - first:
+      213: 2686426592945094131
+    second: AntarcticeTile_20
+  - first:
+      213: -4907633188993263961
+    second: AntarcticeTile_21
+  - first:
+      213: 7051167676475993193
+    second: AntarcticeTile_22
+  - first:
+      213: 7860388222101267992
+    second: AntarcticeTile_23
+  - first:
+      213: -7578549034258768342
+    second: AntarcticeTile_24
+  - first:
+      213: -1355355441403949154
+    second: AntarcticeTile_25
+  - first:
+      213: 8310616045651680115
+    second: AntarcticeTile_26
+  - first:
+      213: -9112560507483092002
+    second: AntarcticeTile_27
+  - first:
+      213: -5981453320064384818
+    second: AntarcticeTile_28
+  - first:
+      213: -41952371007650648
+    second: AntarcticeTile_29
+  - first:
+      213: -6027997783961012043
+    second: AntarcticeTile_30
+  - first:
+      213: 5950923518438203107
+    second: AntarcticeTile_31
+  - first:
+      213: 597493883432322296
+    second: AntarcticeTile_32
+  - first:
+      213: 2662039190470891607
+    second: AntarcticeTile_33
+  - first:
+      213: -36893348992841133
+    second: AntarcticeTile_34
+  - first:
+      213: -8754081681482838385
+    second: AntarcticeTile_35
+  - first:
+      213: 9193577268228599898
+    second: AntarcticeTile_36
+  - first:
+      213: -7194827211076777592
+    second: AntarcticeTile_37
+  - first:
+      213: -6003110346030499641
+    second: AntarcticeTile_38
+  - first:
+      213: -7133703403875834592
+    second: AntarcticeTile_39
+  - first:
+      213: -8210512448463216471
+    second: AntarcticeTile_40
+  - first:
+      213: -6213514902278889987
+    second: AntarcticeTile_41
+  - first:
+      213: -6002725532754266405
+    second: AntarcticeTile_42
+  - first:
+      213: 2034670814695418957
+    second: AntarcticeTile_43
+  - first:
+      213: 3934487717562978214
+    second: AntarcticeTile_44
+  - first:
+      213: -1832452122037504285
+    second: AntarcticeTile_45
+  - first:
+      213: -2822070374676788377
+    second: AntarcticeTile_46
+  - first:
+      213: 2401458043774127818
+    second: AntarcticeTile_47
+  - first:
+      213: -3085370129868498538
+    second: AntarcticeTile_48
+  - first:
+      213: -2211000950047167148
+    second: AntarcticeTile_49
+  - first:
+      213: 673396520315588745
+    second: AntarcticeTile_50
+  - first:
+      213: -8392161528093526273
+    second: AntarcticeTile_51
+  - first:
+      213: -312953757434884083
+    second: AntarcticeTile_52
+  - first:
+      213: -2475914563140417917
+    second: AntarcticeTile_53
+  - first:
+      213: -8954222422331623884
+    second: AntarcticeTile_54
+  - first:
+      213: 1631153479948830095
+    second: AntarcticeTile_55
+  - first:
+      213: -5258721742614770637
+    second: AntarcticeTile_56
+  - first:
+      213: 3881476426447177345
+    second: AntarcticeTile_57
+  - first:
+      213: -3242644131435303928
+    second: AntarcticeTile_58
+  - first:
+      213: -6962934417645082807
+    second: AntarcticeTile_59
+  - first:
+      213: 7050134162922697050
+    second: AntarcticeTile_60
+  - first:
+      213: 2416398431328053913
+    second: AntarcticeTile_61
+  - first:
+      213: -1735873935132946585
+    second: AntarcticeTile_62
+  - first:
+      213: 7408313349814337426
+    second: AntarcticeTile_63
+  - first:
+      213: 3991866079807039158
+    second: AntarcticeTile_64
+  - first:
+      213: -262872909773888871
+    second: AntarcticeTile_65
+  - first:
+      213: 2694390260467447560
+    second: AntarcticeTile_66
+  - first:
+      213: -4553473914973717748
+    second: AntarcticeTile_67
+  - first:
+      213: 7196930167730950195
+    second: AntarcticeTile_68
+  - first:
+      213: 2578537398801751771
+    second: AntarcticeTile_69
+  - first:
+      213: 5131534670572675154
+    second: AntarcticeTile_70
+  - first:
+      213: -2163650200649648235
+    second: AntarcticeTile_71
+  - first:
+      213: 9043489770795731549
+    second: AntarcticeTile_72
+  - first:
+      213: -8007826188824512186
+    second: AntarcticeTile_73
+  - first:
+      213: -637527619289274481
+    second: AntarcticeTile_74
+  - first:
+      213: 2034771145737657960
+    second: AntarcticeTile_75
+  - first:
+      213: 3130898114229015654
+    second: AntarcticeTile_76
+  - first:
+      213: -6010023965560202757
+    second: AntarcticeTile_77
+  - first:
+      213: 4779580038917177354
+    second: AntarcticeTile_78
+  - first:
+      213: 5870597199533299471
+    second: AntarcticeTile_79
+  - first:
+      213: 2438657618200459236
+    second: AntarcticeTile_80
+  - first:
+      213: -4037497481577490031
+    second: AntarcticeTile_81
+  - first:
+      213: 6678107472554625848
+    second: AntarcticeTile_82
+  - first:
+      213: 6961339513590371003
+    second: AntarcticeTile_83
+  - first:
+      213: 3252544750847416261
+    second: AntarcticeTile_84
+  - first:
+      213: 876175058677141288
+    second: AntarcticeTile_85
+  - first:
+      213: -5240113863879428711
+    second: AntarcticeTile_86
+  - first:
+      213: -7833780452938667102
+    second: AntarcticeTile_87
+  - first:
+      213: 3601466278360077932
+    second: AntarcticeTile_88
+  - first:
+      213: 2085817953652203886
+    second: AntarcticeTile_89
+  - first:
+      213: 4588413982428575536
+    second: AntarcticeTile_90
+  - first:
+      213: 2574901192713719307
+    second: AntarcticeTile_91
+  - first:
+      213: 4588490487228289077
+    second: AntarcticeTile_92
+  - first:
+      213: -541672076046250799
+    second: AntarcticeTile_93
+  - first:
+      213: 6337986693303108918
+    second: AntarcticeTile_94
+  - first:
+      213: 3083130028272457640
+    second: AntarcticeTile_95
+  - first:
+      213: -3493664057610999115
+    second: AntarcticeTile_96
+  - first:
+      213: 5821653734606366381
+    second: AntarcticeTile_97
+  - first:
+      213: -4345311655190321150
+    second: AntarcticeTile_98
+  - first:
+      213: -7066706313902799389
+    second: AntarcticeTile_99
+  - first:
+      213: 6883612867779256604
+    second: AntarcticeTile_100
+  - first:
+      213: -6191502289888198924
+    second: AntarcticeTile_101
+  - first:
+      213: -4658053702818913731
+    second: AntarcticeTile_102
+  - first:
+      213: -4751707074695412411
+    second: AntarcticeTile_103
+  - first:
+      213: 7890450432922380530
+    second: AntarcticeTile_104
+  - first:
+      213: 7813747977045987058
+    second: AntarcticeTile_105
+  - first:
+      213: -1562157629589047728
+    second: AntarcticeTile_106
+  - first:
+      213: 7149281739263390008
+    second: AntarcticeTile_107
+  - first:
+      213: 5202517938375590206
+    second: AntarcticeTile_108
+  - first:
+      213: -835442741198356518
+    second: AntarcticeTile_109
+  - first:
+      213: 5171625969927735504
+    second: AntarcticeTile_110
+  - first:
+      213: 1519357443032146344
+    second: AntarcticeTile_111
+  - first:
+      213: 1649155373964684150
+    second: AntarcticeTile_112
+  - first:
+      213: -2640890021441383892
+    second: AntarcticeTile_113
+  - first:
+      213: -889072423016411680
+    second: AntarcticeTile_114
+  - first:
+      213: 279010723927780202
+    second: AntarcticeTile_115
+  - first:
+      213: -2696375094337453215
+    second: AntarcticeTile_116
+  - first:
+      213: -8530032225603875899
+    second: AntarcticeTile_117
+  - first:
+      213: 4002746865984060740
+    second: AntarcticeTile_118
+  - first:
+      213: 96940166638664388
+    second: AntarcticeTile_119
+  - first:
+      213: -271727764237927432
+    second: AntarcticeTile_120
+  - first:
+      213: -4951533175832320974
+    second: AntarcticeTile_121
+  - first:
+      213: -5395302166713637823
+    second: AntarcticeTile_122
+  - first:
+      213: -236627081567134272
+    second: AntarcticeTile_123
+  - first:
+      213: 6230728286289557778
+    second: AntarcticeTile_124
+  - first:
+      213: -3537158133363306776
+    second: AntarcticeTile_125
+  - first:
+      213: 5224504872725259036
+    second: AntarcticeTile_126
+  - first:
+      213: 3528113474663921398
+    second: AntarcticeTile_127
+  - first:
+      213: -5407613608826016583
+    second: AntarcticeTile_0
+  - first:
+      213: -958059311079476524
+    second: AntarcticeTile_1
+  - first:
+      213: 7419736761789870070
+    second: AntarcticeTile_2
+  - first:
+      213: 4539350775111020511
+    second: AntarcticeTile_3
+  - first:
+      213: 5729920100517978979
+    second: AntarcticeTile_4
+  - first:
+      213: -6810029099613332708
+    second: AntarcticeTile_5
+  - first:
+      213: -5334391194793927110
+    second: AntarcticeTile_6
+  - first:
+      213: -3106755659777301016
+    second: AntarcticeTile_7
+  - first:
+      213: -3033239843312426763
+    second: AntarcticeTile_8
+  - first:
+      213: 7748953607896603998
+    second: AntarcticeTile_9
+  - first:
+      213: -4188557298754154709
+    second: AntarcticeTile_10
+  - first:
+      213: 3150216416462333661
+    second: AntarcticeTile_11
+  - first:
+      213: 535680633020476952
+    second: AntarcticeTile_12
+  - first:
+      213: 1452992945611020803
+    second: AntarcticeTile_13
+  - first:
+      213: 5999209428684543682
+    second: AntarcticeTile_14
+  - first:
+      213: 6448280572725412847
+    second: AntarcticeTile_15
+  - first:
+      213: -7031120735933461781
+    second: AntarcticeTile_16
+  - first:
+      213: 2854397175582510046
+    second: AntarcticeTile_17
+  - first:
+      213: 1503008445735654464
+    second: AntarcticeTile_18
+  - first:
+      213: -824304262414176432
+    second: AntarcticeTile_19
+  - first:
+      213: -7057550517851510176
+    second: AntarcticeTile_20
+  - first:
+      213: 2086361381288974832
+    second: AntarcticeTile_21
+  - first:
+      213: 8775056175782193089
+    second: AntarcticeTile_22
+  - first:
+      213: 3584475657828148
+    second: AntarcticeTile_23
+  - first:
+      213: -7368088237833609967
+    second: AntarcticeTile_24
+  - first:
+      213: 8923135115599010817
+    second: AntarcticeTile_26
+  - first:
+      213: 308545742725251019
+    second: AntarcticeTile_27
+  - first:
+      213: 3710029196770402319
+    second: AntarcticeTile_28
+  - first:
+      213: 7246230227180522290
+    second: AntarcticeTile_29
+  - first:
+      213: -8389982007689804259
+    second: AntarcticeTile_30
+  - first:
+      213: 685218023199091013
+    second: AntarcticeTile_31
+  - first:
+      213: -9147646014010417021
+    second: AntarcticeTile_32
+  - first:
+      213: 5004697227696839949
+    second: AntarcticeTile_33
+  - first:
+      213: -3615386839656910397
+    second: AntarcticeTile_34
+  - first:
+      213: 1406774609778069461
+    second: AntarcticeTile_35
+  - first:
+      213: 2711372891701100360
+    second: AntarcticeTile_36
+  - first:
+      213: -47387886039055398
+    second: AntarcticeTile_37
+  - first:
+      213: 5537462634914924242
+    second: AntarcticeTile_38
+  - first:
+      213: 7104643121295462496
+    second: AntarcticeTile_39
+  - first:
+      213: 469081963796437126
+    second: AntarcticeTile_42
+  - first:
+      213: 3692151969034725702
+    second: AntarcticeTile_43
+  - first:
+      213: -6731870650353950790
+    second: AntarcticeTile_44
+  - first:
+      213: -2767156615307865476
+    second: AntarcticeTile_45
+  - first:
+      213: 7783312052242927484
+    second: AntarcticeTile_46
+  - first:
+      213: -6792152250459472243
+    second: AntarcticeTile_47
+  - first:
+      213: -1271678619519634263
+    second: AntarcticeTile_48
+  - first:
+      213: 2099948377834631625
+    second: AntarcticeTile_49
+  - first:
+      213: 248835014554215513
+    second: AntarcticeTile_50
+  - first:
+      213: -3505263588453190903
+    second: AntarcticeTile_51
+  - first:
+      213: 8869912780412786913
+    second: AntarcticeTile_52
+  - first:
+      213: 2681510183792918186
+    second: AntarcticeTile_53
+  - first:
+      213: 2843170578842391622
+    second: AntarcticeTile_54
+  - first:
+      213: -2751352732270780610
+    second: AntarcticeTile_55
+  - first:
+      213: 3371411175628086362
+    second: AntarcticeTile_58
+  - first:
+      213: -7041061212200435301
+    second: AntarcticeTile_59
+  - first:
+      213: -6315366267449790278
+    second: AntarcticeTile_61
+  - first:
+      213: -1967649352543369031
+    second: AntarcticeTile_62
+  - first:
+      213: -639430008700300230
+    second: AntarcticeTile_63
+  - first:
+      213: -659998762313000594
+    second: AntarcticeTile_64
+  - first:
+      213: 2255371862888303862
+    second: AntarcticeTile_65
+  - first:
+      213: -2482914167228932556
+    second: AntarcticeTile_66
+  - first:
+      213: -3257384130790263073
+    second: AntarcticeTile_67
+  - first:
+      213: 70113995785226992
+    second: AntarcticeTile_68
+  - first:
+      213: 7082826210270021844
+    second: AntarcticeTile_69
+  - first:
+      213: -9109451667292287836
+    second: AntarcticeTile_70
+  - first:
+      213: 4301510757409938709
+    second: AntarcticeTile_71
+  - first:
+      213: -202827737702946836
+    second: AntarcticeTile_74
+  - first:
+      213: -4273907905453662759
+    second: AntarcticeTile_77
+  - first:
+      213: -2062061881987701452
+    second: AntarcticeTile_78
+  - first:
+      213: 7349544628812604728
+    second: AntarcticeTile_79
+  - first:
+      213: -1797951121808977854
+    second: AntarcticeTile_80
+  - first:
+      213: -2090619376964187210
+    second: AntarcticeTile_81
+  - first:
+      213: 4578287713137024295
+    second: AntarcticeTile_82
+  - first:
+      213: 3653852585882872728
+    second: AntarcticeTile_83
+  - first:
+      213: -4778164456073815401
+    second: AntarcticeTile_84
+  - first:
+      213: -4150874887560465295
+    second: AntarcticeTile_85
+  - first:
+      213: 6496131893029882141
+    second: AntarcticeTile_86
+  - first:
+      213: 2955710202908634514
+    second: AntarcticeTile_90
+  - first:
+      213: 1772991702728117882
+    second: AntarcticeTile_91
+  - first:
+      213: 5272615596834142399
+    second: AntarcticeTile_93
+  - first:
+      213: 1293881591999889273
+    second: AntarcticeTile_94
+  - first:
+      213: -9076862353933737610
+    second: AntarcticeTile_95
+  - first:
+      213: -1008956493293974696
+    second: AntarcticeTile_96
+  - first:
+      213: 5490850708956106805
+    second: AntarcticeTile_97
+  - first:
+      213: 4507315393999939318
+    second: AntarcticeTile_98
+  - first:
+      213: 8120013342770516246
+    second: AntarcticeTile_99
+  - first:
+      213: 209841849724970287
+    second: AntarcticeTile_100
+  - first:
+      213: -7520248627922959279
+    second: AntarcticeTile_101
+  - first:
+      213: 1465435757681445874
+    second: AntarcticeTile_106
+  - first:
+      213: -2481539178374425356
+    second: AntarcticeTile_109
+  - first:
+      213: -8235142123731079216
+    second: AntarcticeTile_110
+  - first:
+      213: -3630795132874628900
+    second: AntarcticeTile_111
+  - first:
+      213: -5758630896897949087
+    second: AntarcticeTile_112
+  - first:
+      213: 4806191464328327881
+    second: AntarcticeTile_113
+  - first:
+      213: 3692194116852102058
+    second: AntarcticeTile_114
+  - first:
+      213: 3852606893931709892
+    second: AntarcticeTile_115
+  - first:
+      213: -5341812541149280964
+    second: AntarcticeTile_116
+  - first:
+      213: -3141046615277223316
+    second: AntarcticeTile_117
+  - first:
+      213: -1156839371643884065
+    second: AntarcticeTile_118
+  - first:
+      213: -1921629173786897414
+    second: AntarcticeTile_119
+  - first:
+      213: 5980582707627436298
+    second: AntarcticeTile_120
+  - first:
+      213: -4732509959701860318
+    second: AntarcticeTile_121
+  - first:
+      213: -8177466508532985859
+    second: AntarcticeTile_122
+  - first:
+      213: -2050794851461163903
+    second: AntarcticeTile_123
+  - first:
+      213: 7578651197490784288
+    second: AntarcticeTile_124
+  - first:
+      213: -4126028656463431167
+    second: AntarcticeTile_125
+  - first:
+      213: -7364443548772334455
+    second: AntarcticeTile_126
+  - first:
+      213: 1316596802359286962
+    second: AntarcticeTile_127
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 32
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: AntarcticeTile_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 224
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9bc6b53d21c44f4b0800000000000000
+      internalID: -5407613608826016583
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AntarcticeTile_1
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 224
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4d23a51f12a44b2f0800000000000000
+      internalID: -958059311079476524
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AntarcticeTile_2
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 224
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6ff646df54338f660800000000000000
+      internalID: 7419736761789870070
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AntarcticeTile_3
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 224
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fdfe26dba730ffe30800000000000000
+      internalID: 4539350775111020511
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AntarcticeTile_4
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 224
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 363aeb619f3c48f40800000000000000
+      internalID: 5729920100517978979
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AntarcticeTile_5
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 224
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c1b597f6d9aed71a0800000000000000
+      internalID: -6810029099613332708
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AntarcticeTile_6
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 224
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a3e165d987f68f5b0800000000000000
+      internalID: -5334391194793927110
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AntarcticeTile_7
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 224
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8e52a0f003692e4d0800000000000000
+      internalID: -3106755659777301016
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AntarcticeTile_8
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 224
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5f02dccee64c7e5d0800000000000000
+      internalID: -3033239843312426763
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AntarcticeTile_9
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 224
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e5d98ab2040d98b60800000000000000
+      internalID: 7748953607896603998
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AntarcticeTile_10
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 224
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b2f836624514fd5c0800000000000000
+      internalID: -4188557298754154709
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AntarcticeTile_11
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 224
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dd667d4e321d7bb20800000000000000
+      internalID: 3150216416462333661
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AntarcticeTile_12
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 224
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 81eed3492be1f6700800000000000000
+      internalID: 535680633020476952
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AntarcticeTile_13
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 224
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 30a1b40c2611a2410800000000000000
+      internalID: 1452992945611020803
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AntarcticeTile_14
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 224
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2c69ae1b039714350800000000000000
+      internalID: 5999209428684543682
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AntarcticeTile_15
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 224
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fe3c9553405ec7950800000000000000
+      internalID: 6448280572725412847
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AntarcticeTile_16
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 192
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bea8dc171f07c6e90800000000000000
+      internalID: -7031120735933461781
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AntarcticeTile_17
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 192
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: edb4972ab1bdc9720800000000000000
+      internalID: 2854397175582510046
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AntarcticeTile_18
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 192
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0445c76d732cbd410800000000000000
+      internalID: 1503008445735654464
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AntarcticeTile_19
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 192
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 05f66f304ab7f84f0800000000000000
+      internalID: -824304262414176432
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AntarcticeTile_20
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 192
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 06a261f423b8e0e90800000000000000
+      internalID: -7057550517851510176
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AntarcticeTile_21
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 192
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0f992dc4f9e34fc10800000000000000
+      internalID: 2086361381288974832
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AntarcticeTile_22
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 192
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1c76891891347c970800000000000000
+      internalID: 8775056175782193089
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AntarcticeTile_23
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 192
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4377a46cf0cbc0000800000000000000
+      internalID: 3584475657828148
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AntarcticeTile_24
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 192
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 11d913619ca4fb990800000000000000
+      internalID: -7368088237833609967
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AntarcticeTile_25
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 192
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e9f89b2386fc03de0800000000000000
+      internalID: -1355355441403949154
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AntarcticeTile_26
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 192
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 10cd7106c1855db70800000000000000
+      internalID: 8923135115599010817
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AntarcticeTile_27
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 192
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bcff810e7bc284400800000000000000
+      internalID: 308545742725251019
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AntarcticeTile_28
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 192
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f00e3dbd5ebac7330800000000000000
+      internalID: 3710029196770402319
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AntarcticeTile_29
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 192
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 23b0bcbdff7cf8460800000000000000
+      internalID: 7246230227180522290
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AntarcticeTile_30
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 192
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d160bb7e0dbc09b80800000000000000
+      internalID: -8389982007689804259
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AntarcticeTile_31
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 192
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5492a726922628900800000000000000
+      internalID: 685218023199091013
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AntarcticeTile_32
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 160
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 38024e3aa680d0180800000000000000
+      internalID: -9147646014010417021
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AntarcticeTile_33
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 160
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d0d9041dc91447540800000000000000
+      internalID: 5004697227696839949
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AntarcticeTile_34
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 160
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3c1b0a013d093ddc0800000000000000
+      internalID: -3615386839656910397
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AntarcticeTile_35
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 160
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5df4cdedd0ed58310800000000000000
+      internalID: 1406774609778069461
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AntarcticeTile_36
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 160
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 84fb77f874bb0a520800000000000000
+      internalID: 2711372891701100360
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AntarcticeTile_37
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 160
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ad34cfdf7f4a75ff0800000000000000
+      internalID: -47387886039055398
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AntarcticeTile_38
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 160
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2d64a1f7de409dc40800000000000000
+      internalID: 5537462634914924242
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AntarcticeTile_39
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 160
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0601dbcd643c89260800000000000000
+      internalID: 7104643121295462496
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AntarcticeTile_40
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 160
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9a06d65ed666e0e80800000000000000
+      internalID: -8210512448463216471
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AntarcticeTile_41
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 160
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dfd1213fd1925c9a0800000000000000
+      internalID: -6213514902278889987
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AntarcticeTile_42
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 160
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 68811ae8f83828600800000000000000
+      internalID: 469081963796437126
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AntarcticeTile_43
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 160
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 649e21b67a82d3330800000000000000
+      internalID: 3692151969034725702
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AntarcticeTile_44
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 160
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: abf56cb7f479392a0800000000000000
+      internalID: -6731870650353950790
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AntarcticeTile_45
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 160
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c72d3ba28b51999d0800000000000000
+      internalID: -2767156615307865476
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AntarcticeTile_46
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 160
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c7fc4f1e211e30c60800000000000000
+      internalID: 7783312052242927484
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AntarcticeTile_47
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 160
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d8e3efab38d6db1a0800000000000000
+      internalID: -6792152250459472243
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AntarcticeTile_48
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 128
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9a4b21f78071a5ee0800000000000000
+      internalID: -1271678619519634263
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AntarcticeTile_49
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 128
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9c1bd737ce3842d10800000000000000
+      internalID: 2099948377834631625
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AntarcticeTile_50
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 128
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 954ee2a902a047300800000000000000
+      internalID: 248835014554215513
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AntarcticeTile_51
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 128
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 903f226865dca5fc0800000000000000
+      internalID: -3505263588453190903
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AntarcticeTile_52
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 128
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1e89331dda2481b70800000000000000
+      internalID: 8869912780412786913
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AntarcticeTile_53
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 128
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aaeb19e0e43a63520800000000000000
+      internalID: 2681510183792918186
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AntarcticeTile_54
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 128
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6441eb3e398f47720800000000000000
+      internalID: 2843170578842391622
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AntarcticeTile_55
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 128
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e3f133d644b31d9d0800000000000000
+      internalID: -2751352732270780610
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AntarcticeTile_56
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 128
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 33cc2dedf644507b0800000000000000
+      internalID: -5258721742614770637
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AntarcticeTile_57
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 128
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 186cf62be36cdd530800000000000000
+      internalID: 3881476426447177345
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AntarcticeTile_58
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 128
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a5c181b0a98a9ce20800000000000000
+      internalID: 3371411175628086362
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AntarcticeTile_59
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 128
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b910305f120294e90800000000000000
+      internalID: -7041061212200435301
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AntarcticeTile_60
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 128
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a517adffaab17d160800000000000000
+      internalID: 7050134162922697050
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AntarcticeTile_61
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 128
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ab0bb2a07df4b58a0800000000000000
+      internalID: -6315366267449790278
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AntarcticeTile_62
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 128
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9b80023c65181b4e0800000000000000
+      internalID: -1967649352543369031
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AntarcticeTile_63
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 128
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a3491b08bc94027f0800000000000000
+      internalID: -639430008700300230
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AntarcticeTile_64
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 96
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e69d22c5f9637d6f0800000000000000
+      internalID: -659998762313000594
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AntarcticeTile_65
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 96
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6fc4ed382c0bc4f10800000000000000
+      internalID: 2255371862888303862
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AntarcticeTile_66
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 96
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 43ed88e48baea8dd0800000000000000
+      internalID: -2482914167228932556
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AntarcticeTile_67
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 96
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fd6704334627bc2d0800000000000000
+      internalID: -3257384130790263073
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AntarcticeTile_68
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 96
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0facf84ce4819f000800000000000000
+      internalID: 70113995785226992
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AntarcticeTile_69
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 96
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4d888fc69e04b4260800000000000000
+      internalID: 7082826210270021844
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AntarcticeTile_70
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 96
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4ac0478f8f9b49180800000000000000
+      internalID: -9109451667292287836
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AntarcticeTile_71
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 96
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 51dd0f45e3902bb30800000000000000
+      internalID: 4301510757409938709
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AntarcticeTile_72
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 96
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d5a8826380ee08d70800000000000000
+      internalID: 9043489770795731549
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AntarcticeTile_73
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 96
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6497b00328c7ed090800000000000000
+      internalID: -8007826188824512186
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AntarcticeTile_74
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 96
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ce7ae974f396f2df0800000000000000
+      internalID: -202827737702946836
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AntarcticeTile_75
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 96
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 86e58ec8395fc3c10800000000000000
+      internalID: 2034771145737657960
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AntarcticeTile_76
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 96
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6649f862f3f237b20800000000000000
+      internalID: 3130898114229015654
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AntarcticeTile_77
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 96
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9dd53b4776700b4c0800000000000000
+      internalID: -4273907905453662759
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AntarcticeTile_78
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 96
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 435ef33c4a51263e0800000000000000
+      internalID: -2062061881987701452
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AntarcticeTile_79
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 96
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 835614d76e3def560800000000000000
+      internalID: 7349544628812604728
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AntarcticeTile_80
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 64
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2409f0d0bf46c07e0800000000000000
+      internalID: -1797951121808977854
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AntarcticeTile_81
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 64
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6bb4083d0c0acf2e0800000000000000
+      internalID: -2090619376964187210
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AntarcticeTile_82
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 64
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 72d51151b68598f30800000000000000
+      internalID: 4578287713137024295
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AntarcticeTile_83
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 64
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 89be033619715b230800000000000000
+      internalID: 3653852585882872728
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AntarcticeTile_84
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 64
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 79a92553ebc80bdb0800000000000000
+      internalID: -4778164456073815401
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AntarcticeTile_85
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 64
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1747ed338412566c0800000000000000
+      internalID: -4150874887560465295
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AntarcticeTile_86
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 64
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d19c12ae985e62a50800000000000000
+      internalID: 6496131893029882141
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AntarcticeTile_87
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 64
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2ab2136ee22d84390800000000000000
+      internalID: -7833780452938667102
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AntarcticeTile_88
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 64
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c665330bf7afaf130800000000000000
+      internalID: 3601466278360077932
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AntarcticeTile_89
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 64
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e616291b06052fc10800000000000000
+      internalID: 2085817953652203886
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AntarcticeTile_90
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 64
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 29ded5ff4cac40920800000000000000
+      internalID: 2955710202908634514
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AntarcticeTile_91
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 64
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a7e03d65f8eea9810800000000000000
+      internalID: 1772991702728117882
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AntarcticeTile_92
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 64
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 530508a89c79daf30800000000000000
+      internalID: 4588490487228289077
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AntarcticeTile_93
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 64
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fb8bb7623f71c2940800000000000000
+      internalID: 5272615596834142399
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AntarcticeTile_94
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 64
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 97ff190e37ac4f110800000000000000
+      internalID: 1293881591999889273
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AntarcticeTile_95
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 64
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 671e9a6c7c1880280800000000000000
+      internalID: -9076862353933737610
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AntarcticeTile_96
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 32
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 85b836f3a677ff1f0800000000000000
+      internalID: -1008956493293974696
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AntarcticeTile_97
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 32
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 530d706c0ab633c40800000000000000
+      internalID: 5490850708956106805
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AntarcticeTile_98
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 32
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6f6240658733d8e30800000000000000
+      internalID: 4507315393999939318
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AntarcticeTile_99
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 32
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 611d4431d1510b070800000000000000
+      internalID: 8120013342770516246
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AntarcticeTile_100
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 32
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f252edfec0289e200800000000000000
+      internalID: 209841849724970287
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AntarcticeTile_101
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 32
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 154880687b5b2a790800000000000000
+      internalID: -7520248627922959279
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AntarcticeTile_102
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 32
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d3229c236d44b5fb0800000000000000
+      internalID: -4658053702818913731
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AntarcticeTile_103
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 32
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 545c118579b8e0eb0800000000000000
+      internalID: -4751707074695412411
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AntarcticeTile_104
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 32
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2f86a240dd2808d60800000000000000
+      internalID: 7890450432922380530
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AntarcticeTile_105
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 32
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2fec048d262007c60800000000000000
+      internalID: 7813747977045987058
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AntarcticeTile_106
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 32
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2fb02c1be06465410800000000000000
+      internalID: 1465435757681445874
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AntarcticeTile_107
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 32
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8313bf30dd9573360800000000000000
+      internalID: 7149281739263390008
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AntarcticeTile_108
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 32
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e318976308e033840800000000000000
+      internalID: 5202517938375590206
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AntarcticeTile_109
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 32
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4f417c8d34dcf8dd0800000000000000
+      internalID: -2481539178374425356
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AntarcticeTile_110
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 32
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0df2720ced5e6bd80800000000000000
+      internalID: -8235142123731079216
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AntarcticeTile_111
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 32
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cd06acc3013dc9dc0800000000000000
+      internalID: -3630795132874628900
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AntarcticeTile_112
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1620fc5b5bb3510b0800000000000000
+      internalID: -5758630896897949087
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AntarcticeTile_113
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 0
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9c2fdc92ca503b240800000000000000
+      internalID: 4806191464328327881
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AntarcticeTile_114
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 0
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aa3b1c8bcfe4d3330800000000000000
+      internalID: 3692194116852102058
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AntarcticeTile_115
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 0
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4c5450cde85377530800000000000000
+      internalID: 3852606893931709892
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AntarcticeTile_116
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 0
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c350214cbc11ed5b0800000000000000
+      internalID: -5341812541149280964
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AntarcticeTile_117
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 0
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c624571deb2c864d0800000000000000
+      internalID: -3141046615277223316
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AntarcticeTile_118
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 0
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fddeafe78b412ffe0800000000000000
+      internalID: -1156839371643884065
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AntarcticeTile_119
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 0
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: af3976a92700555e0800000000000000
+      internalID: -1921629173786897414
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AntarcticeTile_120
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 0
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a092afd394c4ff250800000000000000
+      internalID: 5980582707627436298
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AntarcticeTile_121
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 0
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 220f8fbf34fb25eb0800000000000000
+      internalID: -4732509959701860318
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AntarcticeTile_122
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 0
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dffcc3c598dc38e80800000000000000
+      internalID: -8177466508532985859
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AntarcticeTile_123
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 0
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 184157bb2fc1a83e0800000000000000
+      internalID: -2050794851461163903
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AntarcticeTile_124
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 0
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 028e6075c17cc2960800000000000000
+      internalID: 7578651197490784288
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AntarcticeTile_125
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 0
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 10a3a6e2cc66db6c0800000000000000
+      internalID: -4126028656463431167
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AntarcticeTile_126
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 0
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 98402036c9d3cc990800000000000000
+      internalID: -7364443548772334455
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AntarcticeTile_127
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 0
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2bc5a0de0dd754210800000000000000
+      internalID: 1316596802359286962
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
